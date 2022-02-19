@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="149ba0b3-caec-4203-a969-d475f376ca73" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jJdUQYRi9G0gBTBPl0n0z7zeO6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Assets/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\FAQ" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\Intro\IntroSection" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\Intro\ExplainSection" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\Intro\DefinitionSection" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\Rigster\Main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Assets\images" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components\Deposits" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Assets\Json" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\src\Components" />
+      <recent name="G:\Programming\React Projects\Ultra Design\ultra-design\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="149ba0b3-caec-4203-a969-d475f376ca73" name="Default Changelist" comment="" />
+      <created>1603526144172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603526144172</updated>
+      <workItem from="1603526147543" duration="2131000" />
+      <workItem from="1603544279903" duration="1268000" />
+      <workItem from="1603545571378" duration="8221000" />
+      <workItem from="1603617656629" duration="6500000" />
+      <workItem from="1603626516956" duration="3007000" />
+      <workItem from="1603631634096" duration="1543000" />
+      <workItem from="1603702182989" duration="8521000" />
+      <workItem from="1603722261451" duration="1752000" />
+      <workItem from="1603725944551" duration="3837000" />
+      <workItem from="1603788115756" duration="682000" />
+      <workItem from="1603792789239" duration="1637000" />
+      <workItem from="1603804324413" duration="602000" />
+      <workItem from="1603809848939" duration="36000" />
+      <workItem from="1603810593214" duration="2869000" />
+      <workItem from="1603813542627" duration="47000" />
+      <workItem from="1603826530036" duration="5432000" />
+      <workItem from="1603874985884" duration="3516000" />
+      <workItem from="1603894349149" duration="6006000" />
+      <workItem from="1603963248049" duration="1198000" />
+      <workItem from="1603979941384" duration="8783000" />
+      <workItem from="1604001222362" duration="2101000" />
+      <workItem from="1604148832014" duration="3924000" />
+      <workItem from="1604214547010" duration="5998000" />
+      <workItem from="1604402683658" duration="4155000" />
+      <workItem from="1604735724045" duration="2960000" />
+      <workItem from="1604739239566" duration="573000" />
+      <workItem from="1605887501914" duration="833000" />
+      <workItem from="1605944655315" duration="942000" />
+      <workItem from="1606652373817" duration="269000" />
+      <workItem from="1606655021306" duration="1133000" />
+      <workItem from="1606767972777" duration="303000" />
+      <workItem from="1606768946586" duration="10000" />
+      <workItem from="1606768963496" duration="594000" />
+      <workItem from="1608718582378" duration="481000" />
+      <workItem from="1608800707188" duration="1658000" />
+      <workItem from="1608803474985" duration="4335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+.Container {
+    background: #101522;
+    text-align: center;
+}
+
+.Svg {
+    padding-right: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    max-height: 500px;
+}
+
+#Right-Wheel,#Left-Wheel {
+    animation: Wheel 2s infinite linear;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#Man-Bike {
+    animation: Bike 1s ease-in-out infinite alternate;
+    transform-origin: bottom;
+}
+
+#Hat {
+    animation: Hat 1s ease-in-out infinite alternate;
+    transform-origin: top;
+    transform-box: fill-box;
+}
+
+@keyframes Wheel {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes Bike {
+    from {
+        transform: rotateX(0deg);
+    }
+    to {
+        transform: rotateX(20deg);
+    }
+}
+
+@keyframes Hat {
+    from {
+        transform: translateY(0%) rotateZ(0deg);
+    }
+    to {
+        transform: translateY(30%) rotateZ(3deg);
+    }
+}
